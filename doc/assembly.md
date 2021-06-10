@@ -61,4 +61,4 @@ Or simply order the PCB from this link: [https://www.pcbway.com/project/sharepro
 <p><img src="roller-blinds-to-motor.JPG" width="350"/></p>
 
 14. Route the wire from the power supply and solder or connect it using XH 2.54mm connectors.
-<p><img src="final.JPG" width="500"/></p>
+<p><img src="final.jpg" width="500"/></p>
