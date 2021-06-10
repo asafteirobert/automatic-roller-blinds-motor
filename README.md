@@ -2,9 +2,9 @@
 Automatic window roller blinds that can be controlled wirelessly using a NRF24L01 module. Controlled either by a small remote, web interface or RESTful API.
 Built around an Arduino pro mini and a cheap stepper motor.
 
-For the small remote see this project: [automatic roller blinds small remote](../automatic-roller-blinds-remote).
+For the small remote see this project: [automatic roller blinds small remote](https://github.com/asafteirobert/automatic-roller-blinds-remote).
 
-For the web gateway see this project: [automatic roller blinds web interface](../automatic-roller-blinds-web-ui).
+For the web gateway see this project: [automatic roller blinds web interface](https://github.com/asafteirobert/automatic-roller-blinds-web-ui).
 
 <p><img src="doc/final.jpg" width="400"/><img src="doc/final2.jpg" width="400"/></p>
 
