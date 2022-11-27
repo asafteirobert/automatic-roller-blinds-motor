@@ -63,3 +63,5 @@ Or simply order the PCB from this link: [https://www.pcbway.com/project/sharepro
 14. Adjust the height of the motor using the screw on the side, so the blinds are perfectly horizontal.
 15. Route the wire from the power supply and solder or connect it using XH 2.54mm connectors.
 <p><img src="final.jpg" width="500"/></p>
+
+Note: some pictures are slightly different, as I made adjustments and improvements to the PCB and 3D printed parts.
