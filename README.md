@@ -13,6 +13,8 @@ For the web gateway see this project: [automatic roller blinds web interface](ht
 This assembly replaces the side of the roller blinds with the string. This means they can no longer be lowered or raised manually.
 You will need to route a wire to each window, in order to supply the 9V required.
 
+The blinds are controlled by either the [automatic roller blinds small remote](https://github.com/asafteirobert/automatic-roller-blinds-remote) or the [automatic roller blinds web interface](https://github.com/asafteirobert/automatic-roller-blinds-web-ui), or both.
+
 For more details on how to control and calibrate the blinds, see the related projects linked above. 
 
 ## Supported roller blinds
