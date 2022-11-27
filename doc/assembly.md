@@ -23,7 +23,7 @@ For this project you will need a 3D printer, patience, fair soldering skills and
 ## The circuit board
 You can find the schematic and PCB in the `schematic` folder. It contains an EasyEDA project and Gerber files.
 
-Or simply order the PCB from this link: [https://www.pcbway.com/project/shareproject/](https://www.pcbway.com/project/shareproject/)
+Or simply order the PCB from this link: https://www.pcbway.com/project/shareproject/Automatic_roller_blinds_motor.html
 
 
 ## Steps
