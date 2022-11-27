@@ -18,7 +18,7 @@ For this project you will need a 3D printer, patience, fair soldering skills and
 - PCB
 - 2x M2x5 screws
 - 2x M3x6 screws
-- 2x M3 nuts (optional)
+- 2x M3 nuts
 
 ## The circuit board
 You can find the schematic and PCB in the `schematic` folder. It contains an EasyEDA project and Gerber files.
@@ -42,7 +42,7 @@ Or simply order the PCB from this link: [https://www.pcbway.com/project/sharepro
 5. Solder the rest of the components to the PCB. Use double sided tape for the NRF24L01 module to make sure it doesn't touch the nearby pins.
 <p><img src="final-board.JPG" width="450"/></p>
 
-6. Secure the stepper motor to the 3D printed part using M3x6 screws and optionally M3 nuts
+6. Secure the stepper motor to the 3D printed part using M3x6 screws and M3 nuts
 <p><img src="stepper-to-3d-print.JPG" width="450"/></p>
 
 7. Secure the PCB to the 3D printed part using M2x5 screws. You can choose the orientation and side that is best for you.
@@ -60,5 +60,6 @@ Or simply order the PCB from this link: [https://www.pcbway.com/project/sharepro
 13. Connect the actual roller blinds using the 3D printed motor adapter. Carefully mount it to your window using the original clips or using screws.
 <p><img src="roller-blinds-to-motor.JPG" width="350"/></p>
 
-14. Route the wire from the power supply and solder or connect it using XH 2.54mm connectors.
+14. Adjust the height of the motor using the screw on the side, so the blinds are perfectly horizontal.
+15. Route the wire from the power supply and solder or connect it using XH 2.54mm connectors.
 <p><img src="final.jpg" width="500"/></p>
